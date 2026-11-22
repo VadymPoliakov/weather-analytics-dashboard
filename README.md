@@ -30,3 +30,7 @@ Weather observations for October 2026.
 ## Author
 
 Weather Analytics Dashboard
+
+## Dashboard Preview
+
+![Weather Analytics Dashboard](weather-dashboard.png)
