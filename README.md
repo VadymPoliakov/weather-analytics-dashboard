@@ -33,4 +33,4 @@ Weather Analytics Dashboard
 
 ## Dashboard Preview
 
-![Weather Analytics Dashboard](weather-dashboard.png)
+![Weather Analytics Dashboard](weather-dashboard.jpg)
